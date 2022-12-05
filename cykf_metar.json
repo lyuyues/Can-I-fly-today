@@ -1,0 +1,71 @@
+{
+ "data": [
+  {
+   "barometer": {
+    "hg": 29.97,
+    "hpa": 1015.0,
+    "kpa": 101.49,
+    "mb": 1014.92
+   },
+   "clouds": [
+    {
+     "code": "CLR",
+     "text": "Clear skies"
+    }
+   ],
+   "dewpoint": {
+    "celsius": -8,
+    "fahrenheit": 18
+   },
+   "elevation": {
+    "feet": 1024,
+    "meters": 312
+   },
+   "flight_category": "VFR",
+   "humidity": {
+    "percent": 64
+   },
+   "icao": "CYKF",
+   "observed": "2022-12-05T02:00Z",
+   "raw_text": "CYKF 050200Z AUTO 21015G22KT 9SM CLR M02/M08 A2997 RMK SLP167",
+   "station": {
+    "geometry": {
+     "coordinates": [
+      -80.378601,
+      43.4608
+     ],
+     "type": "Point"
+    },
+    "location": "Kitchener, ON, CA",
+    "name": "Waterloo Airport",
+    "type": "Airport"
+   },
+   "temperature": {
+    "celsius": -2,
+    "fahrenheit": 28
+   },
+   "visibility": {
+    "meters": "14,500",
+    "meters_float": 14500.0,
+    "miles": "9",
+    "miles_float": 9.0
+   },
+   "wind": {
+    "degrees": 210,
+    "gust_kph": 41,
+    "gust_kts": 22.0,
+    "gust_mph": 25,
+    "gust_mps": 11,
+    "speed_kph": 28,
+    "speed_kts": 15,
+    "speed_mph": 17,
+    "speed_mps": 8
+   },
+   "windchill": {
+    "celsius": -9,
+    "fahrenheit": 16
+   }
+  }
+ ],
+ "results": 1
+}

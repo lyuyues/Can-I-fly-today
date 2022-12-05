@@ -1,0 +1,54 @@
+{
+ "data": [
+  {
+   "forecast": [
+    {
+     "clouds": [
+      {
+       "code": "SKC",
+       "text": "Clear skies"
+      }
+     ],
+     "timestamp": {
+      "from": "2022-12-05T02:00Z",
+      "to": "2022-12-05T14:00Z"
+     },
+     "visibility": {
+      "meters": "10,000+",
+      "meters_float": 9999,
+      "miles": "Greater than 6",
+      "miles_float": 6.21
+     },
+     "wind": {
+      "degrees": 220,
+      "speed_kph": 28,
+      "speed_kts": 15,
+      "speed_mph": 17,
+      "speed_mps": 8
+     }
+    }
+   ],
+   "icao": "CYKF",
+   "raw_text": "TAF CYKF 050140Z 0502/0514 22015KT P6SM SKC RMK FCST BASED ON AUTO OBS. NXT FCST BY 050800Z",
+   "station": {
+    "geometry": {
+     "coordinates": [
+      -80.378601,
+      43.4608
+     ],
+     "type": "Point"
+    },
+    "location": "Kitchener, ON, CA",
+    "name": "Waterloo Airport",
+    "type": "Airport"
+   },
+   "timestamp": {
+    "bulletin": "2022-12-05T01:00Z",
+    "from": "2022-12-05T02:00Z",
+    "issued": "2022-12-05T01:40Z",
+    "to": "2022-12-05T14:00Z"
+   }
+  }
+ ],
+ "results": 1
+}
